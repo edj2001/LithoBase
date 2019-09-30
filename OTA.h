@@ -8,7 +8,7 @@ void setupOTA()
   // ArduinoOTA.setPort(8266);
 
   // Hostname defaults to esp8266-[ChipID]
-  // ArduinoOTA.setHostname("myesp8266");
+  ArduinoOTA.setHostname("litho");
 
   // No authentication by default
   // ArduinoOTA.setPassword("admin");

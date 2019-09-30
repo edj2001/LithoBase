@@ -16,6 +16,7 @@
 //library versions:
 // fauxmo 3.1.0
 // wifimanager 0.14.0
+// NeoPixelBus by Makuna 2.5.0
 
 #include <ESP8266WiFi.h>          //https://github.com/esp8266/Arduino
 #include <ESP8266mDNS.h>
